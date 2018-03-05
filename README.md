@@ -7,7 +7,7 @@ Required config (appsettings.json):
 - DiscordToken (https://discordapp.com/developers)
 - ComputerVisionApiKey (https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/)
 
-It is written in C# using the .net core 2.0 framework
+It is written in C# using the .net core 2.0 framework.
 
 Libs Used:
 - https://www.nuget.org/packages/Discord.Net/
