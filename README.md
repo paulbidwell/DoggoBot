@@ -13,4 +13,7 @@ Libs Used:
 - https://www.nuget.org/packages/Discord.Net/
 - https://www.nuget.org/packages/CoreCompat.System.Drawing.v2/
 
+Services Used:
+- https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/
+
 This probably won't be maintained as it was written just for fun.
